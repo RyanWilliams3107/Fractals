@@ -1,0 +1,48 @@
+C:\Users\1712ACP1_4\Desktop\EXAM HELP ME 2\A-Level-Fractals-master\Fractals\bin\Debug\Fractals.exe.config
+C:\Users\1712ACP1_4\Desktop\EXAM HELP ME 2\A-Level-Fractals-master\Fractals\bin\Debug\Fractals.exe
+C:\Users\1712ACP1_4\Desktop\EXAM HELP ME 2\A-Level-Fractals-master\Fractals\bin\Debug\Fractals.pdb
+C:\Users\1712ACP1_4\Desktop\EXAM HELP ME 2\A-Level-Fractals-master\Fractals\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\1712ACP1_4\Desktop\EXAM HELP ME 2\A-Level-Fractals-master\Fractals\obj\x86\Debug\Fractals.JuliaSet.resources
+C:\Users\1712ACP1_4\Desktop\EXAM HELP ME 2\A-Level-Fractals-master\Fractals\obj\x86\Debug\Fractals.Mandelbrot.resources
+C:\Users\1712ACP1_4\Desktop\EXAM HELP ME 2\A-Level-Fractals-master\Fractals\obj\x86\Debug\Fractals.Properties.Resources.resources
+C:\Users\1712ACP1_4\Desktop\EXAM HELP ME 2\A-Level-Fractals-master\Fractals\obj\x86\Debug\Fractals.SaveForm.resources
+C:\Users\1712ACP1_4\Desktop\EXAM HELP ME 2\A-Level-Fractals-master\Fractals\obj\x86\Debug\Fractals.UserChoice.resources
+C:\Users\1712ACP1_4\Desktop\EXAM HELP ME 2\A-Level-Fractals-master\Fractals\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\1712ACP1_4\Desktop\EXAM HELP ME 2\A-Level-Fractals-master\Fractals\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\1712ACP1_4\Desktop\EXAM HELP ME 2\A-Level-Fractals-master\Fractals\obj\x86\Debug\Fractals.exe
+C:\Users\1712ACP1_4\Desktop\EXAM HELP ME 2\A-Level-Fractals-master\Fractals\obj\x86\Debug\Fractals.pdb
+C:\Users\1712ACP1_4\Desktop\EXAM HELP ME 2\A-Level-Fractals-master\Fractals\obj\x86\Debug\Fractals.ImageUtility.resources
+C:\Users\1712ACP1_4\Desktop\EXAM HELP ME 2\A-Level-Fractals-master\Fractals\obj\x86\Debug\Fractals.Login.resources
+C:\Users\1712ACP1_4\Desktop\EXAM HELP ME 2\A-Level-Fractals-master\Fractals\obj\x86\Debug\Fractals.Signup.resources
+C:\Users\ryanw\source\repos\A-Level-Fractals-master\Fractals\bin\Debug\Fractals.exe.config
+C:\Users\ryanw\source\repos\A-Level-Fractals-master\Fractals\bin\Debug\Fractals.exe
+C:\Users\ryanw\source\repos\A-Level-Fractals-master\Fractals\bin\Debug\Fractals.pdb
+C:\Users\ryanw\source\repos\A-Level-Fractals-master\Fractals\obj\x86\Debug\Fractals.csprojAssemblyReference.cache
+C:\Users\ryanw\source\repos\A-Level-Fractals-master\Fractals\obj\x86\Debug\Fractals.ImageUtility.resources
+C:\Users\ryanw\source\repos\A-Level-Fractals-master\Fractals\obj\x86\Debug\Fractals.JuliaSet.resources
+C:\Users\ryanw\source\repos\A-Level-Fractals-master\Fractals\obj\x86\Debug\Fractals.Login.resources
+C:\Users\ryanw\source\repos\A-Level-Fractals-master\Fractals\obj\x86\Debug\Fractals.Mandelbrot.resources
+C:\Users\ryanw\source\repos\A-Level-Fractals-master\Fractals\obj\x86\Debug\Fractals.Signup.resources
+C:\Users\ryanw\source\repos\A-Level-Fractals-master\Fractals\obj\x86\Debug\Fractals.Properties.Resources.resources
+C:\Users\ryanw\source\repos\A-Level-Fractals-master\Fractals\obj\x86\Debug\Fractals.SaveForm.resources
+C:\Users\ryanw\source\repos\A-Level-Fractals-master\Fractals\obj\x86\Debug\Fractals.UserChoice.resources
+C:\Users\ryanw\source\repos\A-Level-Fractals-master\Fractals\obj\x86\Debug\Fractals.csproj.GenerateResource.cache
+C:\Users\ryanw\source\repos\A-Level-Fractals-master\Fractals\obj\x86\Debug\Fractals.csproj.CoreCompileInputs.cache
+C:\Users\ryanw\source\repos\A-Level-Fractals-master\Fractals\obj\x86\Debug\Fractals.exe
+C:\Users\ryanw\source\repos\A-Level-Fractals-master\Fractals\obj\x86\Debug\Fractals.pdb
+C:\Users\ryanw\source\repos\Fractals\Fractals\bin\Debug\Fractals.exe.config
+C:\Users\ryanw\source\repos\Fractals\Fractals\bin\Debug\Fractals.exe
+C:\Users\ryanw\source\repos\Fractals\Fractals\bin\Debug\Fractals.pdb
+C:\Users\ryanw\source\repos\Fractals\Fractals\obj\x86\Debug\Fractals.csprojAssemblyReference.cache
+C:\Users\ryanw\source\repos\Fractals\Fractals\obj\x86\Debug\Fractals.ImageUtility.resources
+C:\Users\ryanw\source\repos\Fractals\Fractals\obj\x86\Debug\Fractals.JuliaSet.resources
+C:\Users\ryanw\source\repos\Fractals\Fractals\obj\x86\Debug\Fractals.Login.resources
+C:\Users\ryanw\source\repos\Fractals\Fractals\obj\x86\Debug\Fractals.Mandelbrot.resources
+C:\Users\ryanw\source\repos\Fractals\Fractals\obj\x86\Debug\Fractals.Signup.resources
+C:\Users\ryanw\source\repos\Fractals\Fractals\obj\x86\Debug\Fractals.Properties.Resources.resources
+C:\Users\ryanw\source\repos\Fractals\Fractals\obj\x86\Debug\Fractals.SaveForm.resources
+C:\Users\ryanw\source\repos\Fractals\Fractals\obj\x86\Debug\Fractals.UserChoice.resources
+C:\Users\ryanw\source\repos\Fractals\Fractals\obj\x86\Debug\Fractals.csproj.GenerateResource.cache
+C:\Users\ryanw\source\repos\Fractals\Fractals\obj\x86\Debug\Fractals.csproj.CoreCompileInputs.cache
+C:\Users\ryanw\source\repos\Fractals\Fractals\obj\x86\Debug\Fractals.exe
+C:\Users\ryanw\source\repos\Fractals\Fractals\obj\x86\Debug\Fractals.pdb
